@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109164132145",
+    "project_id": "assignment-jit",
+    "storage_bucket": "assignment-jit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109164132145:android:f7721055f0a6acc71ce210",
+        "android_client_info": {
+          "package_name": "com.example.assignment_jit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWwdLeN_2mHIG3iGl6GXDXYPuqq0Yrps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
