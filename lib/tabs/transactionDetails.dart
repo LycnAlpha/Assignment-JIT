@@ -106,8 +106,11 @@ class _TransactionDetailsState extends State<TransactionDetails> {
                       .doc(index)
                       .delete();
 
-                  Navigator.of(context).push(
-                      MaterialPageRoute(builder: (context) => HomePage()));
+                  Navigator.of(context)
+                      .push(
+                        MaterialPageRoute(builder: (context) => HomePage()),
+                      )
+                      .then((value) => setState(() {}));
                 },
                 child: const Text(
                   "Cancel Transaction",
