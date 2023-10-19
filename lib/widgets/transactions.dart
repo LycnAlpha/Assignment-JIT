@@ -1,4 +1,3 @@
-import 'package:assignment_jit/info.dart';
 import 'package:assignment_jit/tabs/transactionDetails.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

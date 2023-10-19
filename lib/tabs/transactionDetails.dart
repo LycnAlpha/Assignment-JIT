@@ -1,7 +1,6 @@
 import 'package:assignment_jit/screens/homepage.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import '../info.dart';
 import 'package:assignment_jit/models/transactionmodel.dart' as model;
 
 class TransactionDetails extends StatefulWidget {
